@@ -13,7 +13,7 @@
 
 - 💬 ***Ask me about***: *Java*
 
-- 📫 ***How to reach me***: *harisuman7082@gmail.com*
+- 📫 ***How to reach me***: *harisuman1008@gmail.com*
 
 - ⚡ ***Fun fact***: *As a Developer,"I know how to cook & how to code"*
 
