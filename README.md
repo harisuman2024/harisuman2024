@@ -77,16 +77,6 @@
 
  ***<table>***
   <tr>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="89" height="60" />
-      <br>C#
-     </td>
-     <td align="center" width="90">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="89" height="60" />
-      </a>
-      <br>Python
-    </td>
    <td align="center" width="90">
           <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="89" height="60" />
         <br>java 
