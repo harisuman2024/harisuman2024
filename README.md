@@ -11,11 +11,11 @@
 
 - 👨‍💻 ***All of my projects are available at***: [harisuman]
 
-- 💬 ***Ask me about***: *Java*
+- 💬 ***Ask me about***: *Java, MERN-Developer*
 
 - 📫 ***How to reach me***: *harisuman1008@gmail.com*
 
-- ⚡ ***Fun fact***: *As a Developer,"I know how to cook & how to code"*
+- ⚡ ***Fun fact***: *As a Developer,"I know how to code & how to cook"*
 
 
 
