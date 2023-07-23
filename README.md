@@ -1,3 +1,11 @@
+
+<img src="https://komarev.com/ghpvc/?username=adityarao3&label=Profile%20views&color=0e75b6&style" alt="adityarao3" />
+
+
+
+
+
+
 ***<h1 align="center">Hello <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="45" /> I'm Hari Suman</h1>***
 ***<h3 align="center"><b>A Passionate Fullstack Developer </h3></b>***
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/52041719/130401352-33781db0-a1f7-4d09-ba9e-a2f3e1ba081f.gif"/>
