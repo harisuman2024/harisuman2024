@@ -1,7 +1,7 @@
 
-***<h1 >Hello <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="45" /> I'm Hari Suman</h1>***
+***<h1 align="center">Hello <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="45" /> I'm Hari Suman</h1>***
 
-<img src="https://camo.githubusercontent.com/cdc9f911347b8fb8f066e59c387054c1b56b0c4c9343624a368ba0a5516c0ab7/68747470733a2f2f7732776562736f6c7574696f6e732e636f6d2f696d616765732f66756c6c737461636b646576656c6f7065722e676966" alt="HariSuman2024" />
+<img align="center" src="https://camo.githubusercontent.com/cdc9f911347b8fb8f066e59c387054c1b56b0c4c9343624a368ba0a5516c0ab7/68747470733a2f2f7732776562736f6c7574696f6e732e636f6d2f696d616765732f66756c6c737461636b646576656c6f7065722e676966" alt="HariSuman2024" />
 
 
 ***<h3 align="center"><b>A Passionate Fullstack Developer </h3></b>***
