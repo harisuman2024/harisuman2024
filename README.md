@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/52041719/130401352-33781db0-a1f7-4d09-ba9e-a2f3e1ba081f.gif"/>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityarao3&label=Profile%20views&color=0e75b6&style" alt="adityarao3" /> </p>
+<p align="left"> <img src="" alt="HariSuman2024" /> </p>
 
 <p align="left"><em> <a href="https://twitter.com/HARISUMAN20" target="blank"><img src="https://img.shields.io/twitter/follow/Harisuman20?logo=twitter&style=for-the-badge" alt="@HARISUMAN20" /></a> </p>
 
