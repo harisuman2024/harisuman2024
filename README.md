@@ -72,6 +72,7 @@
        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="89" height="60" />       
      <br>SQL  
       </td>
+     
   
 
 
