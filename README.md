@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Advanced Java**
 
-💬 Ask me about **Node.js, React Js... or anything **
+💬 Ask me about ** Core Java **
 
  </div>
  
